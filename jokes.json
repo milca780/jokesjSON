@@ -1,0 +1,21 @@
+{
+    "jokes": [
+    {
+      "id": 1,
+      "question": "Whos there?",
+      "answer": "your mom" 
+    },
+    {
+        "id": 2,
+        "question": "How do you organize a space party?",
+        "answer": "Planet! "
+       
+        
+    },
+    {
+        "id": 3,
+        "question": "Tapped my tio on his shoulder ",
+        "answer": "call it tapatio ;)"
+    }
+    ]
+}
